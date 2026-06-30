@@ -2,7 +2,7 @@
 
 ## Splash Screen
 
-![Splash Screen](assets/screen_shot/splash_screen.jpg)
+![Splash Screen](assets/screen_shot/splash_screeen.jpg)
 
 ## Home Screen
 
